@@ -1,0 +1,2 @@
+# Real-Time-Human-Pose-Detection-for-Boutique-Virtual-Try-On-using-MediaPipe-and-OpenCV-
+Real-time human pose detection system for boutique virtual try-on using MediaPipe and OpenCV. The project detects body landmarks such as shoulders, elbows, hips, and knees from a live webcam feed and extracts their coordinates to track posture, forming a foundation for virtual clothing alignment and smart retail applications.
